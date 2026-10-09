@@ -1,0 +1,12 @@
+{
+  "name": "jivoo-pos",
+  "version": "1.0.0",
+  "description": "JIVOO - Multi-tenant POS: Web Admin, Client Back Office, Cashier PWA",
+  "type": "module",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

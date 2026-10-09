@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ROLE_OWNER",
+    "name": "CLIENT_OWNER",
+    "label": "Owner",
+    "permissions": [
+      "view",
+      "create",
+      "update",
+      "delete",
+      "export",
+      "approve",
+      "void",
+      "manage_settings"
+    ],
+    "modules": "ALL",
+    "is_default": true
+  },
+  {
+    "id": "ROLE_ADMIN",
+    "name": "CLIENT_ADMIN",
+    "label": "Admin",
+    "permissions": [
+      "view",
+      "create",
+      "update",
+      "delete",
+      "export",
+      "approve"
+    ],
+    "modules": "ALL",
+    "is_default": true
+  },
+  {
+    "id": "ROLE_MANAGER",
+    "name": "MANAGER",
+    "label": "Manager",
+    "permissions": [
+      "view",
+      "create",
+      "update",
+      "export",
+      "approve"
+    ],
+    "modules": [
+      "dashboard",
+      "reports",
+      "analytics",
+      "products",
+      "categories",
+      "inventory",
+      "suppliers",
+      "purchase_orders",
+      "customers",
+      "promotions",
+      "invoices",
+      "finance",
+      "accounts",
+      "employees",
+      "attendance"
+    ],
+    "is_default": true
+  },
+  {
+    "id": "ROLE_CASHIER",
+    "name": "CASHIER",
+    "label": "Kasir",
+    "permissions": [
+      "view",
+      "create"
+    ],
+    "modules": [
+      "cashier",
+      "customers"
+    ],
+    "is_default": true
+  },
+  {
+    "id": "ROLE_INV",
+    "name": "INVENTORY_STAFF",
+    "label": "Staff Inventory",
+    "permissions": [
+      "view",
+      "create",
+      "update"
+    ],
+    "modules": [
+      "products",
+      "categories",
+      "inventory",
+      "suppliers",
+      "purchase_orders"
+    ],
+    "is_default": true
+  },
+  {
+    "id": "ROLE_FIN",
+    "name": "FINANCE_STAFF",
+    "label": "Staff Keuangan",
+    "permissions": [
+      "view",
+      "create",
+      "update",
+      "export"
+    ],
+    "modules": [
+      "finance",
+      "accounts",
+      "reports",
+      "invoices"
+    ],
+    "is_default": true
+  }
+]

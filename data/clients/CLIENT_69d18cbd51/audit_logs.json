@@ -1,0 +1,13 @@
+[
+  {
+    "id": "LOG_cad5d43d02",
+    "client_id": "CLIENT_69d18cbd51",
+    "user_id": "USER_3fc1cd47a1",
+    "action": "CLIENT_CREATED",
+    "module": "SYSTEM",
+    "metadata": {
+      "company": "collegial"
+    },
+    "timestamp": "2026-10-07T18:03:26.613Z"
+  }
+]

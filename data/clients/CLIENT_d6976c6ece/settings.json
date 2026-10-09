@@ -1,0 +1,26 @@
+[
+  {
+    "id": "SET_2594ce5e02",
+    "client_id": "CLIENT_d6976c6ece",
+    "key": "outlets",
+    "value": [
+      {
+        "id": "OUTLET_1",
+        "name": "Outlet Pusat",
+        "address": ""
+      }
+    ]
+  },
+  {
+    "id": "SET_eba489ebc0",
+    "client_id": "CLIENT_d6976c6ece",
+    "key": "tax_rate",
+    "value": 0.11
+  },
+  {
+    "id": "SET_707604ffb8",
+    "client_id": "CLIENT_d6976c6ece",
+    "key": "receipt_footer",
+    "value": "Terima Kasih - Sampai Jumpa Kembali"
+  }
+]

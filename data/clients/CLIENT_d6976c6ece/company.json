@@ -1,0 +1,13 @@
+{
+  "id": "CLIENT_d6976c6ece",
+  "name": "Demo Resto",
+  "brand": "DemoResto",
+  "owner_name": "Owner Demo",
+  "email": "demo@jivoo.id",
+  "phone": "",
+  "outlets": 1,
+  "package": "basic",
+  "status": "active",
+  "created_at": "2026-10-07T17:41:29.293Z",
+  "updated_at": "2026-10-07T17:41:29.293Z"
+}

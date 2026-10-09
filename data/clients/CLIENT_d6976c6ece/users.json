@@ -1,0 +1,36 @@
+[
+  {
+    "id": "USER_5e19bdf539",
+    "client_id": "CLIENT_d6976c6ece",
+    "outlet_id": null,
+    "name": "Owner Demo",
+    "username": "demo",
+    "email": "demo@jivoo.id",
+    "password_hash": "8d7a8ad386037927b6ecf95271aba71931fb4823f21b33b2a7606f741828ecb0",
+    "pin_hash": "",
+    "role_id": "ROLE_OWNER",
+    "permissions": [],
+    "modules": [],
+    "status": "active",
+    "last_login": "2026-10-08T14:30:16.821Z",
+    "created_at": "2026-10-07T17:41:29.296Z",
+    "updated_at": "2026-10-07T17:41:29.296Z"
+  },
+  {
+    "id": "USER_56811967fa",
+    "client_id": "CLIENT_d6976c6ece",
+    "outlet_id": "OUTLET_1",
+    "name": "Kasir Demo",
+    "username": "kasir1",
+    "email": "",
+    "password_hash": "f02b7c1e519e4fa436147f7e1399974f9510aa9c8e0cb8be29151eb540f9d214",
+    "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "role_id": "ROLE_CASHIER",
+    "permissions": [],
+    "modules": [],
+    "status": "active",
+    "last_login": null,
+    "created_at": "2026-10-07T17:41:29.296Z",
+    "updated_at": "2026-10-07T17:41:29.296Z"
+  }
+]

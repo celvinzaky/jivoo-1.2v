@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>JIVOO Kasir</title>
+<link rel="icon" href="/assets/logo.png">
+<link rel="manifest" href="/cashier/manifest.json">
+<meta name="theme-color" content="#2563eb">
+<link rel="apple-touch-icon" href="/assets/logo.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="stylesheet" href="/cashier/cashier.css">
+</head>
+<body>
+<div id="app"></div>
+<div id="print-area" class="rc58"></div>
+<script src="/shared/core.js"></script>
+<script src="/shared/ui.js"></script>
+<script src="/shared/auth.js"></script>
+<script src="/cashier/app.js"></script>
+<script>
+if ('serviceWorker' in navigator) navigator.serviceWorker.register('/cashier/sw.js').catch(()=>{});
+</script>
+</body>
+</html>

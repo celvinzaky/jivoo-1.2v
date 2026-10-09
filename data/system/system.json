@@ -1,0 +1,88 @@
+{
+  "admin": {
+    "username": "admin",
+    "password_hash": "188cd9a48511e4dcd2dfd0c0a56c730898771de5c0ef6a2955bd7f6b991ce0e8",
+    "name": "Super Admin"
+  },
+  "logs": [
+    {
+      "id": "LOG_c15df70573",
+      "user_id": "ADMIN",
+      "action": "LOGIN",
+      "module": "ADMIN",
+      "metadata": {},
+      "timestamp": "2026-10-07T17:59:49.357Z"
+    },
+    {
+      "id": "LOG_5418464e30",
+      "user_id": "ADMIN",
+      "action": "LOGIN",
+      "module": "ADMIN",
+      "metadata": {},
+      "timestamp": "2026-10-07T18:02:37.483Z"
+    },
+    {
+      "id": "LOG_82774f1cae",
+      "user_id": "ADMIN",
+      "action": "CREATE_CLIENT",
+      "module": "ADMIN",
+      "metadata": {
+        "company": "collegial"
+      },
+      "timestamp": "2026-10-07T18:03:26.615Z"
+    },
+    {
+      "id": "LOG_6c8c64f8ed",
+      "user_id": "ADMIN",
+      "action": "LOGIN",
+      "module": "ADMIN",
+      "metadata": {},
+      "timestamp": "2026-10-07T18:04:10.098Z"
+    },
+    {
+      "id": "LOG_b5535c8ca0",
+      "user_id": "ADMIN",
+      "action": "DEACTIVATE_CLIENT",
+      "module": "ADMIN",
+      "metadata": {
+        "client_id": "CLIENT_69d18cbd51"
+      },
+      "timestamp": "2026-10-07T18:04:35.919Z"
+    },
+    {
+      "id": "LOG_afb68271ec",
+      "user_id": "ADMIN",
+      "action": "LOGIN",
+      "module": "ADMIN",
+      "metadata": {},
+      "timestamp": "2026-10-08T10:28:33.563Z"
+    },
+    {
+      "id": "LOG_17517a8ece",
+      "user_id": "ADMIN",
+      "action": "LOGIN",
+      "module": "ADMIN",
+      "metadata": {},
+      "timestamp": "2026-10-08T14:22:45.648Z"
+    },
+    {
+      "id": "LOG_52032d0bf8",
+      "user_id": "ADMIN",
+      "action": "ACTIVATE_CLIENT",
+      "module": "ADMIN",
+      "metadata": {
+        "client_id": "CLIENT_69d18cbd51"
+      },
+      "timestamp": "2026-10-08T14:25:03.052Z"
+    },
+    {
+      "id": "LOG_b1df497e23",
+      "user_id": "ADMIN",
+      "action": "LOGIN",
+      "module": "ADMIN",
+      "metadata": {},
+      "timestamp": "2026-10-08T14:41:00.686Z"
+    }
+  ],
+  "created_at": "2026-10-07T17:41:29.288Z"
+}

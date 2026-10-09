@@ -1,0 +1,22 @@
+[
+  {
+    "id": "LOG_d5782cae3c",
+    "client_id": "CLIENT_d6976c6ece",
+    "user_id": "USER_5e19bdf539",
+    "action": "CLIENT_CREATED",
+    "module": "SYSTEM",
+    "metadata": {
+      "company": "Demo Resto"
+    },
+    "timestamp": "2026-10-07T17:41:29.309Z"
+  },
+  {
+    "id": "LOG_49d4298683",
+    "client_id": "CLIENT_d6976c6ece",
+    "user_id": "USER_5e19bdf539",
+    "action": "LOGIN",
+    "module": "AUTH",
+    "metadata": {},
+    "timestamp": "2026-10-08T14:30:16.825Z"
+  }
+]
